@@ -1,4 +1,3 @@
-# resume_analyzer
 <p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
 
 <div align="center">
