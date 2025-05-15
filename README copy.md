@@ -14,7 +14,7 @@
   <p>
     <small align="justify">
       Built with 🤍 by 
-      <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a> through 
+      <a href="#">Manish</a> through 
       <a href="https://www.linkedin.com/in/mrbriit/">Dr Bright --(Data Scientist)</a>
      </small>
   </p>
@@ -257,4 +257,4 @@ Please check the screenshots folder for preview images.
 
 Please check the screenshots folder for preview images.
 
-### Built with 🤍 AI RESUME ANALYZER by <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a>
+### Built with 🤍 AI RESUME ANALYZER by <a href="#">Manish</a>

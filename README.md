@@ -1,4 +1,3 @@
-# resume_analyzer
 <p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
 
 <div align="center">
@@ -15,12 +14,12 @@
   <p>
     <small align="justify">
       Built with 🤍 by 
-      <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a> through 
+      <a href="#">Manish</a> through 
       <a href="https://www.linkedin.com/in/mrbriit/">Dr Bright --(Data Scientist)</a>
      </small>
   </p>
   <small align="justify">🚀 A Project Submitted for the partial fulfilment of the degree B.sc CS at 
-    <a href="https://kirticollege.edu.in/">Kirti College</a> during academic year 2022-23
+    <a href="https://www.mmumullana.org/">Maharishi Markandeshwar (Deemed to be University)</a> during academic year 2023-24
   </small>
 </div><br/><br/>
 
@@ -151,7 +150,7 @@ To run this project, perform the following tasks 😨
 Download the code file manually or via git
 
 ```bash
-git clone https://github.com/deepakpadhi986/AI-Resume-Analyzer.git
+git clone https://github.com/manishkumar632/resume_analyzer.git
 ```
 
 Create a virtual environment and activate it **(recommended)**
@@ -183,7 +182,7 @@ python -m spacy download en_core_web_sm
 After installation is finished create a Database `cv`
 
 And change user credentials inside `App.py`
-https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/17e1cdb207fef62557dc394f4158bda515e541fd/App/App.py#L95
+https://github.com/manishkumar632/resume_analyzer/tree/main/App#L95
 
 Go to `venvapp\Lib\site-packages\pyresparser` folder
 
@@ -206,9 +205,6 @@ streamlit run App.py
 
 If `GeocoderUnavailable` error comes up then just check your internet connection and network speed
 
-## Issue While Installation and Set-up 🤧
-
-Check-out installation [Video](https://youtu.be/WFruijLC1Nc)
 
 ## Usage
 
@@ -234,8 +230,6 @@ Pull requests are welcome.
 
 For major changes, please open an issue first to discuss what you would like to change.
 
-I've attached the <a href="https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/RESUME%20ANALYSER%20SYNOPSIS.pdf">synopsis</a> of the project
-
 If you want the full report of project `it's FREE`
 
 ## Acknowledgement 🤗
@@ -258,4 +252,4 @@ Please check the screenshots folder for preview images.
 
 Please check the screenshots folder for preview images.
 
-### Built with 🤍 AI RESUME ANALYZER by <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a>
+### Built with 🤍 AI RESUME ANALYZER by <a href="#">Manish</a>
